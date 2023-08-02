@@ -37,7 +37,7 @@ const Testimonials = () => {
 					</div>
 					<div className="">
 						<p className="text-sm">
-              A friend of mine told me about HireHub when I started looking for new opportunities. The TopHire team was extremely helpful, professional and quick with everything.
+              A friend of mine told me about HireHub when I started looking for new opportunities. The HireHub team was extremely helpful, professional and quick with everything.
 						</p>
 					</div>
 				</div>

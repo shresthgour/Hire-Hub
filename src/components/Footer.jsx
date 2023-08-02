@@ -11,7 +11,7 @@ function Footer() {
 							<h1 className="text-white text-xl text-center mt-3">HireHub</h1>
 						</div>
 						<p className="text-justify text-[#9b9aa5] pt-5 text-sm">
-							TopHire is on a mission to make it dead
+							HireHub is on a mission to make it dead
 							<br />
 							simple for leading Indian startups to hire the
 							<br />
@@ -74,7 +74,7 @@ function Footer() {
 			</div>
 			<div className="Lower Footer bg-[#071D30] text-center">
 				<p className="text-[#9b9aa5]">
-					© 2023 SPSG TopHire. All Rights Reserved
+					© 2023 SPSG HireHub. All Rights Reserved
 				</p>
 			</div>
 		</>
